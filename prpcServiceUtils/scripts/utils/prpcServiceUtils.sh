@@ -1,5 +1,5 @@
 #!/bin/sh
-# prpcUtils sh script
+# prpcUtils sh scripts
 #                          Copyright 2017  Pegasystems Inc.                           
 #                                 All rights reserved.                                 
 # This software has been provided pursuant to a License Agreement containing restrictions

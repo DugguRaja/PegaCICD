@@ -1,4 +1,0 @@
-#SUCCESSFUL JOBS
-#Sat Dec 26 00:27:21 AEDT 2020
-DefaultSystem.operationName=export
-DefaultSystem.jobID=EXPORTREQUEST-1
